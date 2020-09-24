@@ -1,0 +1,9 @@
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+C:\Users\Edsel\Documents\GitHub\MyShop\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
