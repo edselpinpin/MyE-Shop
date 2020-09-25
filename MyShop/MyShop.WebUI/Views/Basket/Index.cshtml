@@ -9,8 +9,9 @@
 
 <table class="table">
     <tr>
-         <th></th> 
-        <th>
+         
+         <th></th>
+         <th>
             @Html.DisplayNameFor(model => model.ProductName)
         </th>
         <th>
@@ -19,9 +20,11 @@
         <th>
             @Html.DisplayNameFor(model => model.Price)
         </th>
-        <th>
+
+         <th>
              Line Total
         </th>
+        <th></th>
     </tr>
  
 
@@ -50,6 +53,7 @@
 </tr>
 }
 <tr>
+    <td></td>
     <td colspan="4" style="text-align:right"><strong>Basket Total</strong></td>
     <td>@string.Format("{0:c}", (from item in Model select item.Price * item.Quantity).Sum())</td>
 </tr>

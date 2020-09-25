@@ -34,7 +34,7 @@ namespace MyShop.WebUI.Controllers
                 return View(product);
             }
         }
-
+        [Route("/Views/Home")]
         public ActionResult Index(string Category=null)
         {
             List<Product> products;
