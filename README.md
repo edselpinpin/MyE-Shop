@@ -1,4 +1,4 @@
-# Ecommerce website that allows user to select product from a calalog add to cart and checkout process. Product and Category management functionality is also provided.
+Ecommerce website that allows user to select product from a calalog aEdd to cart and checkout process. Product and Category management functionality is also provided
 
 Technology/Dependencies
 
